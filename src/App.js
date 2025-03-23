@@ -11,6 +11,8 @@ import Event01 from './event/event01';
 import Event02 from './event/event02';
 import Event03 from './event/event03';
 import Event04 from './event/event04';
+import Event05 from './event/event05';
+import Event06 from './event/event06';
 
 function App() {
   return (
@@ -24,7 +26,9 @@ function App() {
     // <Event01 />
     // <Event02 />
     // <Event03 />
-    <Event04 />
+    // <Event04 />
+    // <Event05 />
+    <Event06 />
   );
 }
 
